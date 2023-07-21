@@ -1,0 +1,28 @@
+.parent{
+    color: white;
+    min-width: 43%;
+    max-width: 43%;
+    border-radius: 5%;
+    padding: 2rem;
+    border: 3px dotted rgb(4, 245, 24);
+    box-shadow: 5px 5px 20px rgb(198, 198, 214);
+    margin: 0px 2rem 2rem  2em;
+
+}
+.parent:hover{
+    box-shadow: 0 0 40px 15px rgb(1, 1, 27);
+    cursor: pointer;
+    background-color: #000205;
+    color: aquamarine;
+}
+.printButton{
+    font-family: cursive;
+    font-weight: 900;
+    font-size: x-large;
+    width: 6rem;
+    height: 3rem;
+    margin-top: 0.5rem;
+    border-radius: 0.7rem;
+    background-color: rgb(160, 190, 202);
+
+}
